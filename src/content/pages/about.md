@@ -1,37 +1,31 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "关于我"
+description: "关于 Noah，以及这个记录技术学习与项目实践的博客。"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+你好，我是 Noah，欢迎来到我的个人博客。
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+我在这里整理技术学习笔记，记录项目实践，以及遇到问题时的思考和解决过程。也希望通过这些文章，让你了解我的技术兴趣和做事方式。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## 这个博客会写什么
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+- **技术笔记**：记录学到的知识、使用方法和理解。
+- **项目实践**：从需求出发，介绍实现过程、技术选择和结果。
+- **问题复盘**：记录问题如何定位、解决，以及有哪些经验值得保留。
 
-## Features
+## 项目与代码
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+我的代码和项目可以在 [GitHub：NoahSSJ](https://github.com/NoahSSJ) 查看。
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+后续我会在博客中补充代表项目的介绍，说明项目背景、我负责的工作和具体实现。
 
-and so much more.
+## 求职与交流
 
-## Show your support
+这个博客也是我展示技术积累和项目经历的地方。具体求职方向、个人经历及简历会陆续补充。
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+欢迎通过我的 [GitHub 主页](https://github.com/NoahSSJ) 了解更多。
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+## 关于本站
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+本站使用 [AstroPaper](https://github.com/satnaing/astro-paper) 模板，
+由 Cloudflare Pages 托管。
