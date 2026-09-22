@@ -1,7 +1,7 @@
 ---
 title: "我的第一篇博客"
 author: "Noah"
-pubDatetime: 2026-09-23T10:00:00+08:00
+pubDatetime: 2026-09-23T00:00:00+08:00
 description: "记录个人博客上线，以及后续的写作计划。"
 tags:
   - 博客
