@@ -1,11 +1,12 @@
 
 ---
-title: "某Q音乐JSVMP逆向"
+title: "JS逆向仓库001:某Q音乐JSVMP逆向(中等)"
 author: "Noah"
 pubDatetime: 2026-10-26T00:00:00+08:00
 description: "JSVMP逆向"
 tags:
-  - 博客
+  - JS逆向
+  - WEB端
   - JSVMP
 featured: false
 draft: false
