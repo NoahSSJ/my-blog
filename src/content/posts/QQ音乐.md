@@ -1,6 +1,6 @@
 
 ---
-title: "JS逆向仓库001:某Q音乐JSVMP逆向(中等)"
+title: "JS逆向仓库001:某Q音乐JSVMP纯算逆向(中等)"
 author: "Zsx"
 pubDatetime: 2026-10-26T00:00:00+08:00
 description: "JSVMP逆向"
@@ -8,7 +8,7 @@ tags:
   - JS逆向
   - WEB端
   - JSVMP
-featured: false
+featured: true
 draft: false
 ---
 网址：aHR0cHM6Ly95LnFxLmNvbS8=
