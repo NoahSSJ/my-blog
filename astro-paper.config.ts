@@ -3,9 +3,9 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://my-blog-6fm.pages.dev/",
-    title: "Noah 的技术博客",
+    title: "Zsx 的技术博客",
     description: "记录技术学习、项目实践与问题解决过程。",
-    author: "Noah",
+    author: "Zsx",
     profile: "https://github.com/NoahSSJ",
     ogImage: "default-og.jpg",
     lang: "en",
@@ -29,10 +29,10 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/satnaing/astro-paper" },
-    { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "mailto:yourmail@gmail.com" },
+    { name: "github",   url: "https://github.com/NoahSSJ" },
+    // { name: "x",        url: "https://x.com/username" },
+    // { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
+    // { name: "mail",     url: "mailto:yourmail@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
